@@ -9,6 +9,7 @@ published: true
 meta: {}
 ---
 
+
 ## Overview
 
 As of CM 10 the CM web applications (ServiceAPI, WebDrawer and Web Client) have an OpenId Connect authentication provider built in. This document describes creating an Azure Ad application and configuring the CM web application.
