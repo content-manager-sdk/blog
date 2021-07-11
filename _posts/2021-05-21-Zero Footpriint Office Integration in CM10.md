@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zero Footpriint Office Integration in CM10
+title: Zero Footprint Office Integration in CM10
 categories: []
 tags: azure-ad office-integration
 status: publish
