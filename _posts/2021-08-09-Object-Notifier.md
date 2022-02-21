@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample OpenAPI Definition File
+title: Object Notifier
 categories: []
 tags: serviceapi webdrawer
 status: publish
