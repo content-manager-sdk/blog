@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configure and install Zero footprint Office and Teams integrations
+title: Teams and Office Installer
 categories: []
 tags: azure-ad office-integration
 status: publish
