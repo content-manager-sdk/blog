@@ -15,6 +15,7 @@ As at the date of my publishing this post Content Manage 10.1 is still to be rel
  [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest) is a pre-requisite for using this script.
  
  ### Protected APIs
- To use the Microsoft APIs to get either channel posts or group chats you need special permission from Microsoft, this may be request using their [request form](https://docs.microsoft.com/en-us/graph/teams-protected-apis).  You will need to supply the ID of the Azure AD app created for the Teams Integration as well as the reason you need organisation wide access to posts, probably for compliance purposes.
+ 
+ To use the Microsoft APIs to retrieve either channel posts or group chats you need special permission from Microsoft, this may be request using their [request form](https://docs.microsoft.com/en-us/graph/teams-protected-apis).  You will need to supply the ID of the Azure AD app created for the Teams Integration as well as the reason you need organisation wide access to posts, probably for compliance purposes.
  
 <iframe src="https://player.vimeo.com/video/680202809?app_id=122963&amp;wmode=opaque" width="640" height="400" frameborder="0" title="Power BI" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
