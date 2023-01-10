@@ -30,7 +30,7 @@ recordType.AddToFavorites();
 recordType.ChangePositionWithinFavorites(LabelPositionChange.MoveUp);
 ```
 
-Retrieving the Record Types in the order specified can be achieved through either the SDK or the ServiceAPI. Using the SDK requires a TrimMainObjectSearch constructed using the RecordTypefilter enum, for example:
+Retrieving the Record Types in the order specified can be achieved through either the SDK or the ServiceAPI. Using the SDK requires a TrimMainObjectSearch constructed using the RecordTypeFilter enum, for example:
 
 ```
 var recordTypeSearch = new TrimMainObjectSearch(db, RecordTypeFilter.AllForCreate);
