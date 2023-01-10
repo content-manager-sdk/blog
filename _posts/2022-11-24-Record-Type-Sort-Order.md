@@ -29,3 +29,15 @@ var recordType = new RecordType(db, "Document");
 recordType.AddToFavorites();
 recordType.ChangePositionWithinFavorites(LabelPositionChange.MoveUp);
 ```
+
+Retrieving the Record Types in the order specified can be achieved through either the SDK or the ServiceAPI. Using the SDK requires a TrimMainObjectSearch constructed using the RecordTypefilter enum, for example:
+
+```
+var recordTypeSearch = new TrimMainObjectSearch(db, RecordTypeFilter.AllForCreate);
+```
+
+The ServiceAPI requires the parameter recordTypeFilter, for example:
+
+```
+https://acme.com/ServiceAPI/RecordType?q=all&purpose=2&recordTypeFilter=2
+```
