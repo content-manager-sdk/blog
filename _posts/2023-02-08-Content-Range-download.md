@@ -2,7 +2,7 @@
 layout: post
 title: Partial file download
 categories: []
-tags: dotnet-sdk
+tags: serviceapi
 status: publish
 type: post
 published: true
