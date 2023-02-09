@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Partial file download
+title: Powershell confidential client
 categories: []
 tags: serviceapi
 status: publish
