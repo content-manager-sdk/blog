@@ -4,6 +4,11 @@ title: Jane David and kids
 permalink: /family/
 ---
 
+
+### More riding bike by Luke
+Now Luke can ride his bike for a few metres without Dad holding on.
+<iframe src="https://player.vimeo.com/video/466772752?app_id=122963&amp;wmode=opaque" width="640" height="400" frameborder="0" title="Power BI" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+
 ### More fun in a puddle
 Here is James videoing Luke.
 <iframe src="https://player.vimeo.com/video/457557995?app_id=122963&amp;wmode=opaque" width="640" height="400" frameborder="0" title="Power BI" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
