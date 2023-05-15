@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Troubleshooting Teams setting validDomains
+title: Troubleshooting Teams - setting validDomains
 categories: []
 tags: teams
 status: publish
